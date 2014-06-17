@@ -1,4 +1,4 @@
-FLOG
-====
+GridTable
+=========
 
-Log structured Flex SCheme DBMS
+Excel style Printing format
